@@ -1,8 +1,4 @@
 # College-website-for-Project
 
 ### DEMO
-<img
-  src="E:\C++ course\HTML&CSS\DEMO\Screenshot (343).png"
-  alt="first page"
-  title="screen snap"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![IMAGE 1](/HTML%26CSS/DEMO/Screenshot%20(343).png "Opt")
