@@ -272,8 +272,48 @@ a{
     color: rgb(17, 0, 255);
 }
 
+.dropdown-menu {
+    display: none;
+  }
 
+  .navlist ul li:hover .dropdown-menu {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    background-color: var(--color-black);
+  }
+  
+  .navlist ul li:hover .dropdown-menu ul {
+    display: block;
+    margin: 10px;
+  }
+  
+  .navlist ul li:hover .dropdown-menu ul li {
+    width: 150px;
+    padding: 10px;
+    background-color: #f80;
+  }
+  
+  .dropdown-menu-1 {
+    display: none;
+  }
+  
+  .dropdown-menu ul li:hover .dropdown-menu-1 {
+    display: block;
+    position: absolute;
+    left: 150px;
+    top: 0;
+    background-color: var(--color-black);
+  }
 
+.img {
+    width: 50px;
+    height: auto;
+    margin: 5px;
+    margin-top: 100px;
+    position:absolute;
 
+}
 
 

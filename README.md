@@ -1,10 +1,12 @@
 # College-website-for-Project
 
 ### DEMO
-![](DEMO/Screenshot1.png)
-![](DEMO/Screenshot%20(344).png)
-![](DEMO/Screenshot%20(345).png)
-![](DEMO/Screenshot%20(346).png)
+![](DEMO/Screenshot%20(347).png)
+![](DEMO/Screenshot%20(348).png)
+![](DEMO/Screenshot%20(349).png)
+![](DEMO/Screenshot%20(350).png)
+![](DEMO/Screenshot%20(351).png)
+
 
 
 ### Contributor
