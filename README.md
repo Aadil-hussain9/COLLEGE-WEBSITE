@@ -1,4 +1,4 @@
 # College-website-for-Project
 
 ### DEMO
-![](HTML&CSS\DEMO\Screenshot1.png)
+![](DEMO\Screenshot1.png)
